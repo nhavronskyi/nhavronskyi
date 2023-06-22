@@ -6,6 +6,7 @@
   📫 You can reach me by mail: <a href = "mailto:nhavronskyi@gmail.com">nhavronskyi@gmail.com</a>
 </div>
 
+<div align="center">
 <div>
   <h3>Language and tools</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
@@ -51,7 +52,7 @@
 <div>
   <h3>Algorithm's stats</h3>
   
-  Codewars
+  Codewars <br>
   ![codewars](https://www.codewars.com/users/nhavronskyi/badges/small)
 
   <div>
@@ -62,4 +63,6 @@
   </div>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhavronskyi&show_icons=true&locale=en&layout=compact" alt="nhavroskyi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhavronskyi&show_icons=true&locale=en&layout=compact" alt="nhavroskyi" /></p>
+
+</div>
