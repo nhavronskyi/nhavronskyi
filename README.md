@@ -58,7 +58,7 @@
   <div>
     
   Leetcode <br>
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/nhavrosnkyi)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/nhavronskyi)
     
   </div>
 </div>
