@@ -58,7 +58,7 @@
   <div>
     
   Leetcode <br>
-  ![leetcode](https://leetcode-stats-six.vercel.app/api?username=nhavronskyi)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/nhavrosnkyi)
     
   </div>
 </div>
